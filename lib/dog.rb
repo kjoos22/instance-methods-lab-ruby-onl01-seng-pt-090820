@@ -8,6 +8,6 @@ class Dog
   
   #method to allow Dog to .sit
   def sit
-    puts "The dog is sitting"
+    puts "The Dog is sitting"
   end
 end
